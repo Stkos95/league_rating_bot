@@ -40,7 +40,8 @@ MAIN_KEYBOARD = ListOfButtons(
         'Просмотреть пару команд',
         'Ввести результаты игры'
     ],
-    align = [2, 2, 1, 1]
+    # align = [2, 2, 1, 1]
+    align = [3, 1, 1, 1]
 ).reply_keyboard
 
 

@@ -1,0 +1,18 @@
+[token]
+TOKEN = 'YOUR TOKEN'
+
+[bot_url]
+BOT_URL = http://t.me/football_help__help_bot
+
+[chat_ids]
+BOSS_ID = 'YOUR ID'
+KUSHER_ID = 'OWNER ID or YOUR ID'
+
+[proxie]
+PROXIE_URL = 
+
+PROXIE_LOGIN = 
+
+PROXIE_PASSWORD = 
+
+PROXIE_URL_W_AUTH = 
